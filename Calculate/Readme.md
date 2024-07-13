@@ -66,7 +66,7 @@ python main.py
 
 ## Screenshot
 
-![Calculator Screenshot](/Images/GUI.png)
+![Calculator Screenshot](/Calculate/Images/GUI.png)
 
 ## Contributing
 
@@ -146,7 +146,7 @@ python main.py
 
 ## تصویر صفحه
 
-![عکس ماشین حساب](/Images/GUI.png)
+![عکس ماشین حساب](/Calculate/Images/GUI.png)
 
 ## مشارکت
 
